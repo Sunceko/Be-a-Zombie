@@ -2,3 +2,6 @@ name: BeAZombie
 version: '1.0-SNAPSHOT'
 main: me.zedamc.BeAZombie
 api-version: '1.20'
+softdepend:
+  - ProtocolLib
+  - LibsDisguises
