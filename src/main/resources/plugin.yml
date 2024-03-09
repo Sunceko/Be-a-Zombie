@@ -1,0 +1,4 @@
+name: BeAZombie
+version: '${project.version}'
+main: me.zedamc.BeAZombie
+api-version: '1.20'

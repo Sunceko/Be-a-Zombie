@@ -1,0 +1,9 @@
+Zombies:
+  Cant-Use-Chests: true
+  RespawnAsAZombie: true
+Debug:
+  debug: false
+Messages:
+  NoChests: "&cSorry you can't use chests right now"
+  DontEatThat: "&cLooks like i can't eat this"
+  Yummy: "&aYummy"
